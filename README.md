@@ -32,12 +32,12 @@ Welcome to the Generative AI-Powered Insights Platform! This project is designed
     pip install -r requirements.txt
     streamlit run LLM_tool.py
 
-##Contribution<br>
-- **Contributions are welcome! Please fork the repository and submit a pull request for any enhancements, bug fixes, or new features.
+## Contribution<br>
+- Contributions are welcome! Please fork the repository and submit a pull request for any enhancements, bug fixes, or new features.
 
-##License
-- **This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Acknowledgements <br>
+## Acknowledgements <br>
 Thanks to the open-source community and the developers of the tools and libraries used in this project.
 Special mention to Streamlit, LangChain, FAISS, Chroma, OpenAI, and Cohere for their powerful technologies.
