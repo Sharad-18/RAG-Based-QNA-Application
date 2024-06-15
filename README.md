@@ -27,14 +27,11 @@ Welcome to the Generative AI-Powered Insights Platform! This project is designed
    ```python
    git clone https://github.com/yourusername/generative-ai-insights-platform.git
    cd generative-ai-insights-platform
-2.
-  ```python
    python -m venv venv
    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-3.  ```python
     pip install -r requirements.txt
-4. ```python
     streamlit run LLM_tool.py
+
 ##Contribution
 **Contributions are welcome! Please fork the repository and submit a pull request for any enhancements, bug fixes, or new features.
 
